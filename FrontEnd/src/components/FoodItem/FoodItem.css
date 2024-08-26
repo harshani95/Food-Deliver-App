@@ -62,4 +62,7 @@
     padding: 5px;
     border-radius: 50%;
 }
+.food-item-counter img{
+    width: 30px;
+}
 
